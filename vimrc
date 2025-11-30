@@ -9,7 +9,7 @@ set hlsearch                    " 启用高亮匹配
 set incsearch                   " 搜索实时高亮
 set scrolloff=5                 " 启用行缓冲
 set cursorline                  " 启用光标线
-set mouse=a                     " 启用鼠标支持
+set mouse=i                     " 仅在插入模式启用鼠标支持
 
 " 自定义状态栏格式
 set laststatus=2                                                 " 启用始终显示状态栏
